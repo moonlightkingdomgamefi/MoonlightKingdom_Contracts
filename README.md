@@ -2,8 +2,9 @@
 Project Contracts will Upload here.
 There will be 2 versions (Unflattened and Flattened).
 
-**The contracts is NOT finally version, developers still editing to complete.**
-**Contract Address** 
+**The contracts is NOT finally version, developers still editing to complete.
+
+**Contract Address 
 GuardianPrimeEggAddress = "0x7daa6211be04d02494c3bfffa82b51e4eb08a50e";
 GuardianGeneralEggAddress = "0x66071Fdf1Ecb9da3E686DFF84Bd945c1E6F896eb";
 
