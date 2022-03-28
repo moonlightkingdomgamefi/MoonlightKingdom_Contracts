@@ -4,6 +4,8 @@ There will be 2 versions (Unflattened and Flattened).
 
 The contracts is NOT finally version, developers still editing to complete.
 
+**[ALL CONTRACT ADDRESS BELOW IS NOT REAL CONTRACT. JUST FOR DEVELOPMENT AND FUNCTION TESTING FOR NOW]
+
 GuardianPrimeEggAddress = 0x7daa6211be04d02494c3bfffa82b51e4eb08a50e
 
 GuardianGeneralEggAddress = 0x66071Fdf1Ecb9da3E686DFF84Bd945c1E6F896eb
@@ -32,4 +34,4 @@ StarlightTokenAddress = 0x2b3f67DD1646a0308bEEc4b693DdC39662A270A7
 
 https://explorer.emerald.oasis.dev/
 
-*[ALL CONTRACT ADDRESS ABOVE IS NOT REAL CONTRACT. ITs JUST FOR DEVELOPMENT AND FUNCTION TESTING]
+
