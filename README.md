@@ -13,13 +13,15 @@ GuardianCharacterAddress = 0x5594ffCe9ddD6912a8f6c47efcAa109C1e13786d
 GuardianWeaponAddress = 0x286c8b091C23A117983A8502E08A3F15528775D7
 
 MoonlightKingdomGamesAddress = 0xF8E0b686bB6B5F1CB68f9a305697023C32431cc5
-(This Contract will splits to Summon and Adventure Contract in the future.)
+(This Contract will splits to Summon System and Adventure Mode Contract in the future.)
 
 Gambling Mode Address = "Waiting For Updates . . ."
 
 Rich Mode Address = "Waiting For Updates . . ."
 
 Arena Mode Address = "Waiting For Updates . . ."
+
+Guardian Evolution System Address = "Waiting For Updates . . ."
 
 MoonExchangeAddress = 0xE54682813335D9912bbf6A3ad02EeE12CfE63B4e
 
@@ -30,4 +32,4 @@ StarlightTokenAddress = 0x2b3f67DD1646a0308bEEc4b693DdC39662A270A7
 
 https://explorer.emerald.oasis.dev/
 
-# [ALL CONTRACT ADDRESS ABOVE IS NOT REAL CONTRACT. ITs JUST FOR DEVELOPMENT AND FUNCTION TESTING]
+**[ALL CONTRACT ADDRESS ABOVE IS NOT REAL CONTRACT. ITs JUST FOR DEVELOPMENT AND FUNCTION TESTING]
